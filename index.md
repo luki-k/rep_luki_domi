@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Ich mag Züge"
   text: "Tschuuuu tschuuuuuuuuu"
-  tagline: My great project tagline
+  tagline: Thomas die kleine Lokomotive!
   actions:
     - theme: 
       text: Markdown Examples
