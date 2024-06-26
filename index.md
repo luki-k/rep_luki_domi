@@ -3,14 +3,14 @@
 layout: home
 
 hero:
-  name: "Das ist ein Test123"
-  text: "Training Page for Cloud Computing Course"
+  name: "Ich mag Züge"
+  text: "Tschuuuu tschuuuuuuuuu"
   tagline: My great project tagline
   actions:
-    - theme: brand
+    - theme: 
       text: Markdown Examples
       link: /markdown-examples
-    - theme: alt
+    - theme: brand
       text: API Examples
       link: /api-examples
 
