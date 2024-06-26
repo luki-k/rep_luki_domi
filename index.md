@@ -3,19 +3,18 @@
 layout: home
 
 hero:
-  name: "Ich mag Züge"
-  text: "Tschuuuu tschuuuuuuuuu"
-  tagline: Thomas die kleine Lokomotive!
+  name: "Ich mag keine Züge"
+  text: "Tschuuuu tschuuuuuuuu ist doof"
+  tagline: Thomas die kleine Lokomotive mag ich auch nicht!
   actions:
     - theme: 
       text: Markdown Examples
       link: /markdown-examples
-    - theme: alt
+    - theme: brand
       text: API Examples
       link: /api-examples
 
 features:
-icon: 🛠️
   - title: Feature A
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature B
