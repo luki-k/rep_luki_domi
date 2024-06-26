@@ -5,8 +5,7 @@ layout: home
 hero:
   name: "Ich mag Züge"
   text: "Tschuuuu tschuuuuuuuuu"
-  tagline: ja
---vp-home-hero-name-color: blue;
+  tagline: Thomas die kleine Lokomotive!
   actions:
     - theme: 
       text: Markdown Examples
