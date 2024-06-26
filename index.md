@@ -5,12 +5,13 @@ layout: home
 hero:
   name: "Ich mag Züge"
   text: "Tschuuuu tschuuuuuuuuu"
-  tagline: My great project tagline
+  tagline: ja
+--vp-home-hero-name-color: blue;
   actions:
     - theme: 
       text: Markdown Examples
       link: /markdown-examples
-    - theme: brand
+    - theme: alt
       text: API Examples
       link: /api-examples
 
