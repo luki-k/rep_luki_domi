@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Ich mag Züge"
+  name: "Ich mag Züge!!!!!!11!!1!111elf"
   text: "Tschuuuu tschuuuuuuuuu"
   tagline: Thomas die kleine Lokomotive!
   actions:
